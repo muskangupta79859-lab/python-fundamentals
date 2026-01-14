@@ -6,3 +6,6 @@ Python basic and practice code
 - Python Strings
 - String operations
 - Conditional statements (if-else)
+- List operations
+- Tuple operations
+- Set operations
