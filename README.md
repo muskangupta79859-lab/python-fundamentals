@@ -9,3 +9,4 @@ Python basic and practice code
 - List operations
 - Tuple operations
 - Set operations
+- Dictionary operations
