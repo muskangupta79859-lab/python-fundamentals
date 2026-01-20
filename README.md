@@ -32,7 +32,11 @@ The focus is on understanding core concepts clearly through simple and practical
 - Appending data to existing files
 - Reading files line by line
 
-## Purpose of This Repository
+### Modules
+- Understanding Python modules
+- Using built-in modules like math, random, datetime, and os
+- Importing and applying module functions in programs
+### Purpose of This Repository
 - To strengthen Python programming fundamentals
 - To build a strong base for data science and analytics
 - To maintain structured and regular practice
