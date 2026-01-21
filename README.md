@@ -36,6 +36,13 @@ The focus is on understanding core concepts clearly through simple and practical
 - Understanding Python modules
 - Using built-in modules like math, random, datetime, and os
 - Importing and applying module functions in programs
+
+### Object Oriented Programming (OOPS)
+- Understanding classes and objects
+- Using constructors
+- Creating methods inside a class
+- Accessing object data
+
 ### Purpose of This Repository
 - To strengthen Python programming fundamentals
 - To build a strong base for data science and analytics
