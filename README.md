@@ -47,3 +47,10 @@ The focus is on understanding core concepts clearly through simple and practical
 - To strengthen Python programming fundamentals
 - To build a strong base for data science and analytics
 - To maintain structured and regular practice
+
+### SQL Basics
+- Creating tables
+- Inserting records
+- Using SELECT queries
+- Applying WHERE conditions
+- Updating and deleting data
