@@ -54,3 +54,7 @@ The focus is on understanding core concepts clearly through simple and practical
 - Using SELECT queries
 - Applying WHERE conditions
 - Updating and deleting data
+- SELECT queries with conditions
+- Filtering data using WHERE and AND
+- Sorting records using ORDER BY
+- Limiting results using LIMIT
