@@ -20,6 +20,7 @@ The focus is on understanding core concepts clearly through simple and practical
 - Tuples and tuple usage
 - Sets and set operations
 - Dictionaries and key-value handling
+- Basic String methods such as lower ,upper ,strip ,replace and split
 
 ### Functions
 - Defining and calling functions
