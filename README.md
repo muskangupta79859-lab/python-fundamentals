@@ -43,6 +43,7 @@ The focus is on understanding core concepts clearly through simple and practical
 - Using constructors
 - Creating methods inside a class
 - Accessing object data
+- Practiced single inheritance in Python using parent and child classes
 
 ### Purpose of This Repository
 - To strengthen Python programming fundamentals
