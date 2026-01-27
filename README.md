@@ -60,3 +60,4 @@ The focus is on understanding core concepts clearly through simple and practical
 - Filtering data using WHERE and AND
 - Sorting records using ORDER BY
 - Limiting results using LIMIT
+- Practiced SQL aggregate functions and GROUP BY clause
