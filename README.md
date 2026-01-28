@@ -61,3 +61,4 @@ The focus is on understanding core concepts clearly through simple and practical
 - Sorting records using ORDER BY
 - Limiting results using LIMIT
 - Practiced SQL aggregate functions and GROUP BY clause
+- Practiced SQL Joins examples
