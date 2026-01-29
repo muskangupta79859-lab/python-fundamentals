@@ -62,3 +62,6 @@ The focus is on understanding core concepts clearly through simple and practical
 - Limiting results using LIMIT
 - Practiced SQL aggregate functions and GROUP BY clause
 - Practiced SQL Joins examples
+
+### Django framework
+- Added basic introduction to Django and database connection concepts
