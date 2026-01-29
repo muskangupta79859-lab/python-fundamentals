@@ -1,0 +1,26 @@
+# Introduction to Django
+
+Django is a high-level Python web framework used to build web applications quickly and securely.
+
+## What Django Does
+- Handles backend logic of a website
+- Connects with databases
+- Manages URLs, views, and templates
+- Provides built-in admin panel
+
+## Django Project and App
+- Project: Complete website
+- App: A single feature or module inside a project
+
+## Database Connection in Django
+Django connects to the database using settings defined in the settings.py file.
+
+Default database:
+- SQLite (for beginners)
+
+Other databases:
+- MySQL
+- PostgreSQL
+
+## Django Workflow
+User → URL → View → Model → Database → Response
