@@ -44,6 +44,10 @@ The focus is on understanding core concepts clearly through simple and practical
 - Creating methods inside a class
 - Accessing object data
 - Practiced single inheritance in Python using parent and child classes
+- Encapsulation:
+- Used private variables
+- Controlled data access using methods
+- Real-world banking example
 
 ### Purpose of This Repository
 - To strengthen Python programming fundamentals
