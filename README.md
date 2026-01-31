@@ -69,3 +69,4 @@ The focus is on understanding core concepts clearly through simple and practical
 
 ### Django framework
 - Added basic introduction to Django and database connection concepts
+- Real world OOPS example inspired by Django User system
