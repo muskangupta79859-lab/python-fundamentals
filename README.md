@@ -48,6 +48,7 @@ The focus is on understanding core concepts clearly through simple and practical
 - Used private variables
 - Controlled data access using methods
 - Real-world banking example
+### Time complexity comparison : Linear vs Binary search
 
 ### Purpose of This Repository
 - To strengthen Python programming fundamentals
